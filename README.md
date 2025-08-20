@@ -1,6 +1,6 @@
 # Activity Tracker Assistant
 
-[👉 Check it out](https://ttpsanitizer.streamlit.app/)
+[👉 Check it out](https://activitytrackerassistant.streamlit.app/)
 
 Activity Tracker Assistant is a lightweight utility designed to simplify the process of extracting, sanitizing, and transforming raw Excel spreadsheet data into multiple formats required by administrative systems.
 
@@ -97,5 +97,6 @@ Potential features under consideration:
 ## Contact
 
 For questions or suggestions, contact the wmaxxing on github.
+
 
 
