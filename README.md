@@ -96,7 +96,8 @@ Potential features under consideration:
 
 ## Contact
 
-For questions or suggestions, contact the wmaxxing on github.
+For questions or suggestions, contact the maxwalkley on github.
+
 
 
 
