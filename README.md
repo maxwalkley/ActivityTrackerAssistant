@@ -1,8 +1,8 @@
-# TTP Sanitizer
+# Activity Tracker Assistant
 
 [👉 Check it out](https://ttpsanitizer.streamlit.app/)
 
-TTP Sanitizer is a lightweight utility designed to simplify the process of extracting, sanitizing, and transforming raw Excel spreadsheet data into multiple formats required by administrative systems.
+Activity Tracker Assistant is a lightweight utility designed to simplify the process of extracting, sanitizing, and transforming raw Excel spreadsheet data into multiple formats required by administrative systems.
 
 The tool provides an interactive interface for reviewing and editing extracted data, ensuring that outputs are formatted correctly and consistently for downstream use, specifically:
 
@@ -16,7 +16,7 @@ The tool provides an interactive interface for reviewing and editing extracted d
 
 Many academic and administrative environments rely on semi-structured spreadsheets for scheduling and attendance tracking. Manually cleaning and transforming these files is repetitive, error-prone, and inefficient.
 
-TTP Sanitizer provides:
+Activity Tracker Assistant provides:
 
 ✔ Automated extraction and initial sanitization of raw Excel data.  
 ✔ A user-friendly web interface for manual review and edits.  
@@ -97,4 +97,5 @@ Potential features under consideration:
 ## Contact
 
 For questions or suggestions, contact the wmaxxing on github.
+
 
